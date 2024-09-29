@@ -1,5 +1,5 @@
 name "Adding the Sheragi"
-about "This plugin re-adds the Sheragi."
+about "This incomplete plugin re-adds the Sheragi."
 about "Any help would be greatly appreciated!"
 version 0.5
 authors
